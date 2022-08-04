@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Nikitha's page</title>
+</head>
+
+<script>
+
+	function a(){
+		alert("HELLO");
+	}
+
+</script>
+
+<body>
+<table>
+	<tr>
+		<th>Nikitha Chowdary Samineni
+			</th>
+			<th><img src="img.jpg" />
+			</th>
+		</tr>
+	</table>
+
+
+</body>
+</html>
